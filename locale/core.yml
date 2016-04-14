@@ -447,7 +447,7 @@ core:
 
   # Translations in this namespace are referenced by two or more unique keys.
   ref:
-    all_discussions: Alle disusies
+    all_discussions: Alle discusies
     change_email: E-mailadres veranderen
     change_password: Wachtwoord veranderen
     confirm_password: Wachtwoord bevestigen
