@@ -42,10 +42,10 @@ core:
     # These translations are used in the Dashboard page.
     dashboard:
       beta_warning_text: "Deze <strong>beta software</strong> is voornamelijk verspreid zodat je ons het kan helpen testen en het beter te maken, gebruik het niet in productie."
-      contributing_text: "Wil je mee helpen zoeken naar bugs en meehelpen deze op te lossen? Lees de <a>Contributie documentatie</a>."
-      extension_text: "Geïntereseert in het ontwikkelen van extensies? Lees de <a>Extensie documentatie</a>."
+      contributing_text: "Wil je zoeken naar bugs en meehelpen deze op te lossen? Lees de <a>Contributie documentatie</a>."
+      extension_text: "Geïntereseerd in het ontwikkelen van extensies? Lees de <a>Extensie documentatie</a>."
       features_text: "Heb je een idee om een functie te verbeteren? Vertel het ons onder het <a>Features label</a>."
-      support_text: "Een bug gevonden? Rapporteer het a.u.b. op ons forum onder het <a>Support tlabel</a>."
+      support_text: "Een bug gevonden? Rapporteer het a.u.b. op ons forum onder het <a>Support label</a>."
       troubleshooting_text: "Heb je problemen? Volg de instructies in de <a>Probleemoplossing documentatie</a>."
       version_text: "Bedankt voor het proberen van Flarum! Je draait nu versie {version}."
       welcome_text: "Welkom bij Flarum Beta!"
