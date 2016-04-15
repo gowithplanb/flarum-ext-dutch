@@ -196,7 +196,7 @@ core:
       empty_text: Het lijkt erop dat er nog geen discussies zijn.
       load_more_button: => core.ref.load_more
       mark_as_read_tooltip: Markeren als gelezen
-      replied_text: "{username} heeft {ago} gereageerds"
+      replied_text: "{username} heeft {ago} gereageerd"
       started_text: "{username} heeft deze dicussie {ago} gestart"
 
     # These translations are used in the Edit User modal dialog (admin function).
